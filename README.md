@@ -1,2 +1,3 @@
-# Unciv
-Open-source iOS remake of Civ V
+# Unciv-iOS
+you can download now from apple store:
+https://testflight.apple.com/join/2YJGSvWM
